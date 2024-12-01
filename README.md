@@ -1,4 +1,4 @@
-# Swarm Robotics Project
+# Swarm Robotics Project [CENG507 AYBU 235101111]
 
 ## Overview
 This project demonstrates a swarm robotics system using ROS 2, Python, and the A* algorithm. It features:
